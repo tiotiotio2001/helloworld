@@ -9,3 +9,5 @@ text = '''
 '''
 
 print(text)
+
+print('update 1.0.0')
